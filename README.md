@@ -18,7 +18,7 @@ JavaScript
 
 OpenWeatherMap API
 
-![WeatherApp Screenshot](WeatherApp.jpeg)
+![WeatherApp Screenshot](https://github.com/PenarKera/WeatherApp/blob/main/WatherApp.jpeg)
 
 ## Run Locally
 ```bash
